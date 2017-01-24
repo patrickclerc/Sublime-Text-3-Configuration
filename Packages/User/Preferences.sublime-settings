@@ -10,8 +10,8 @@
 			"selector": "source.js"
 		},
 		{
-		    "characters": "/",
-		    "selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
 		}
 	],
 	"caret_style": "phase",

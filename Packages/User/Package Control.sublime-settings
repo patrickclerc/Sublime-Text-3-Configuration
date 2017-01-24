@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"AutoFileName",
 		"Package Control",
 		"SideBarEnhancements"

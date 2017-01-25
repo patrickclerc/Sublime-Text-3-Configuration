@@ -8,6 +8,9 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"Monokai Extended",
 		"Package Control",
 		"SideBarEnhancements"
 	]

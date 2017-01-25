@@ -1,5 +1,7 @@
 {
   "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+  "enable_table_editor": true,
+  "table_editor_syntax": "Auto",
   "tab_size": 2,
   "extensions":
   [

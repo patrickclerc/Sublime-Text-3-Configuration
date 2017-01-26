@@ -9,6 +9,7 @@
 		"AutoFileName",
 		"BracketHighlighter",
 		"CSS Format",
+		"Indent XML",
 		"JSONLint",
 		"MarkdownEditing",
 		"MarkdownLivePreview",
@@ -18,9 +19,11 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
+		"SublimeLinter-xmllint",
 		"Table Editor"
 	]
 }

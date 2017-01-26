@@ -8,11 +8,14 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
+		"JSONLint",
 		"MarkdownEditing",
 		"MarkdownLivePreview",
 		"Monokai Extended",
 		"Package Control",
+		"Pretty JSON",
 		"SideBarEnhancements",
+		"SublimeLinter",
 		"Table Editor"
 	]
 }

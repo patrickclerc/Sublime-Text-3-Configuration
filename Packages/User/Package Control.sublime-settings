@@ -9,7 +9,12 @@
 		"AutoFileName",
 		"BracketHighlighter",
 		"CSS Format",
+		"DocBlockr",
+		"HTML-CSS-JS Prettify",
 		"Indent XML",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
 		"JSONLint",
 		"MarkdownEditing",
 		"MarkdownLivePreview",
@@ -21,8 +26,8 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-contrib-sass-lint",
-		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
 		"SublimeLinter-xmllint",
 		"Table Editor"
 	]

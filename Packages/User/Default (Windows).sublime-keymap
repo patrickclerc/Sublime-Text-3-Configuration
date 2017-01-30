@@ -2,5 +2,7 @@
     { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
     { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
     { "keys": ["ctrl+shift+s"], "command": "save_all" },
-    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" }
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+    { "keys": ["ctrl+alt+f"], "command": "js_format", "context": [{"key": "selector", "operator": "equal", "operand": "source.javascript"}] },
+    { "keys": ["ctrl+shift+h"], "command": "htmlprettify" }
 ]

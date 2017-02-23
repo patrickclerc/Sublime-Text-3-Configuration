@@ -15,7 +15,7 @@
 		}
 	],
 	"caret_style": "phase",
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
 	"detect_indentation": true,
 	"drag_text": false,
 	"font_size": 11,
